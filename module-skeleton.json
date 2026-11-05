@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-statements-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-financial-statements",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_financial_statements_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/financial-statements.md",
+  "presentationPlan": "projects/accounting/flutter/financial-statements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
